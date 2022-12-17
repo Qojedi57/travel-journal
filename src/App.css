@@ -9,7 +9,7 @@ body {
   width: 550px;
   height: 705px;
   margin: 10px auto;
-  background-color: rgb(255, 255, 255);
+  background-color:burlywood;
   overflow-y: auto;
   box-shadow: 0px 1px 14px 0px rgba(128, 128, 128, 0.353);
 
@@ -47,7 +47,7 @@ body {
   font-size: 14px;
   margin-top: 2px;
   font-weight: bold;
-  color: white;
+  color:BLACK;
 }
 
 /* place js css styling */
